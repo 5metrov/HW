@@ -1,4 +1,5 @@
 ﻿#include <iostream>
+#include <vector> //жёлтая сирень
 using namespace std;
 
 void osn0() {
